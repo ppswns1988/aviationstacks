@@ -1,0 +1,2 @@
+Dani, te hemos enviado un csv 'cities', ya que por restricción Folium no lo muestra al copiar el notebook.
+Un Saludo
